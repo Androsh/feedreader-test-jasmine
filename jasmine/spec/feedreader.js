@@ -91,7 +91,7 @@ $(function() {
         it('have at least one entry element within the feed', function(done) {
             expect($('.feed .entry').length).toBeGreaterThan(0);
             done();
-        })
+        });
     });
     /* TODO: Write a new test suite named "New Feed Selection" */
     describe('New Feed Selection', function() {
