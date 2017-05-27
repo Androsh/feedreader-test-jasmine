@@ -2,7 +2,7 @@
 
 ## Jasmine Testing Project
 
-![Screenshot](screen.png?raw=true)
+![Screenshot](screen.jpg?raw=true)
 
 ### How to Run
 
