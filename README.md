@@ -1,7 +1,10 @@
-# Feed Reader Jasmine Testing
+# Feed Reader
 
-## Test-Driven Development using Jasmine framework
+## Jasmine Testing Project
 
-### Installation
+![Screenshot](screen.png?raw=true)
 
-Clone repo or download zip file, then run index.html. Alternatively **go to** https://androsh.github.io/feedreader-test-jasmine/ **and check it out!**
+### How to Run
+
+Clone repo or download zip file on your computer, then run index.html in your browser. 
+
